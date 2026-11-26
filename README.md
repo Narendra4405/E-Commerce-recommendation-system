@@ -85,6 +85,6 @@ ecommerce-recommendation-system/
 
 ## Author
 
-Nayan Bharat Pol
+Narendra kumar
 
-[GitHub](https://github.com/nayan-bharat-pol) | [LinkedIn](http://www.linkedin.com/in/nayan-bharat-pol)
+[GitHub](https://github.com/Narendra4405) | [LinkedIn](http://www.linkedin.com/in/narendra-kumar0)
