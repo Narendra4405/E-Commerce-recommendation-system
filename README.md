@@ -18,13 +18,13 @@ Scikit-learn is used to develop a recommendation approach that identifies simila
 
 ## Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| Python | Core programming language |
-| Pandas | Data preprocessing and manipulation |
-| Web Scraping | Product review data collection |
-| NLP | Text preprocessing and analysis |
-| TF-IDF | Text vectorization |
+| Technology   | Purpose                                               |
+| ------------ | ----------------------------------------------------- |
+| Python       | Core programming language                             |
+| Pandas       | Data preprocessing and manipulation                   |
+| Web Scraping | Product review data collection                        |
+| NLP          | Text preprocessing and analysis                       |
+| TF-IDF       | Text vectorization                                    |
 | Scikit-learn | Machine learning and similarity-based recommendations |
 
 ## Project Workflow
@@ -75,7 +75,7 @@ ecommerce-recommendation-system/
 └── README.md          # Project documentation
 ```
 
-*Note: Update the folder structure to match your actual project files.*
+_Note: Update the folder structure to match your actual project files._
 
 ## Future Improvements
 
@@ -85,6 +85,6 @@ ecommerce-recommendation-system/
 
 ## Author
 
-Narendra kumar
+Narendra-kumar
 
 [GitHub](https://github.com/Narendra4405) | [LinkedIn](http://www.linkedin.com/in/narendra-kumar0)
